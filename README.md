@@ -1,14 +1,14 @@
-# Financekit Support
-FinanceKit is your perfect companion to track your expenses and sales as a small startup or indie developer.
+# FiguresKit Support
+FiguresKit is your perfect companion to track your expenses and sales as a small startup or indie developer.
 If you want to contact me, reach out to custusapp@proton.me
 
 # Privacy Policy
 **Intro and Consent** <br />
 This privacy policy informs you about how your personal information is handled by our services.
-By using FinanceKit, you consent to our privacy policy.
+By using FiguresKit, you consent to our privacy policy.
 
 **Collected data** <br />
-The app FinanceKit does not collect or store any of your personal data in a way that is accessible to us. Your data is either stored locally on your device or, if you have enabled iCloud synchronization, additionally on Apple's iCloud servers. \nPlease refer to Apple's Privacy Policy to learn more about how your data is processed. You can disable iCloud synchronization in your iOS device settings.
+The app FiguresKit does not collect or store any of your personal data in a way that is accessible to us. Your data is either stored locally on your device or, if you have enabled iCloud synchronization, additionally on Apple's iCloud servers. \nPlease refer to Apple's Privacy Policy to learn more about how your data is processed. You can disable iCloud synchronization in your iOS device settings.
 
 **Usage data** <br />
 If you have opted in to allow Apple to share information with developers, we receive some anonymous analytics. Additionally, we use Aptabase to collect anonymous data in Sessions. Aptabase is a privacy-first analytics tool, for more information, please refer to Aptabase's Privacy Policy. Usage data is exclusively used to improve our services and understand how (and if) features are used.
@@ -17,7 +17,7 @@ If you have opted in to allow Apple to share information with developers, we rec
 If you wish to have all your data deleted, simply remove the Service from all your device.
 
 **App Store Distribution** <br />
-If you download FinanceKit through the App Store or purchase an in-app purchase, such as subscriptions, Apple will process your personal information and link the purchase to your Apple ID. For more information, please refer to Apple's Privacy Policy.
+If you download FiguresKit through the App Store or purchase an in-app purchase, such as subscriptions, Apple will process your personal information and link the purchase to your Apple ID. For more information, please refer to Apple's Privacy Policy.
 We do not have access to any information related to your bank, cards, or personal finances.
 We utilize RevenueCat for In-App purchases, streamlining the delivery of our services. This integration also gathers data, including the app's last access time, the product category purchased, and the frequency of app usage. This information is associated with randomly generated anonymous IDs, ensuring it cannot be traced back to any real-life individual.
 
